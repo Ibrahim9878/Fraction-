@@ -1,0 +1,10 @@
+﻿using Cordinate;
+Cordinates cordinates = new Cordinates(0, 100);
+cordinates.decrement();
+cordinates.decrement();
+cordinates.decrement();
+cordinates.increment(); 
+cordinates.increment(); 
+cordinates.increment(); 
+cordinates.increment();
+cordinates.ShowData();
